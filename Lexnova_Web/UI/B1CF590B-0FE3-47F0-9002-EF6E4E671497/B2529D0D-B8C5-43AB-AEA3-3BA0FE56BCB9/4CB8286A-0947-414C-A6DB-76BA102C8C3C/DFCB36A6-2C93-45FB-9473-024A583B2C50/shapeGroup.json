@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFCB36A6-2C93-45FB-9473-024A583B2C50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42F3D13F-6103-4624-B792-1066B6729DF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C47741E5-FBB4-4D0E-B05F-7052C730988A",
+    "height": 44.01,
+    "width": 44.01100000000008,
+    "x": 913,
+    "y": 160
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "45E8711C-2584-44A5-A16D-D085CA7F58AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A87D668-4E0A-46CB-A9FB-CCF05A4645EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "A235B2B0-077D-49C1-9B20-53E74C44A498"
+    }
+  ],
+  "name": "Link Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD8E5E74-B8A7-4A3F-A652-351AC9960D09",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09595099836587906,
+          "green": 0.09514356404542923,
+          "red": 0.08916693180799484
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "11D8C476-6DFB-4B45-A743-FF6FA9BD9AD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14E4A9E9-D602-4286-BCB1-B27C59863BEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36A59E5F-A71A-4AE0-8126-8C72661F894F",
+    "height": 5,
+    "width": 25,
+    "x": 334,
+    "y": 151
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "8242E884-3A8B-453E-8843-214D77D220A9"
+    },
+    {
+      "class": "oval",
+      "id": "62AACF09-E21E-4648-85D3-CAE2CE638343"
+    },
+    {
+      "class": "oval",
+      "id": "0522411B-2730-49DD-B158-70F02AC08F78"
+    }
+  ],
+  "name": "Load Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FB2751A-949C-4B4B-903D-A7E86A25A02E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

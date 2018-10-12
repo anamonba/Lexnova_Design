@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B46FA93B-23AB-4AE6-B1BC-A6F5D1F8F187",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07FECD88-6394-414C-8B89-7A1046A3B993",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8083502-174A-4BA8-A3C9-51937BD3CC98",
+    "height": 47.968,
+    "width": 45.10051079428477,
+    "x": 811,
+    "y": 259
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9B4F9F89-D5F8-4A19-9AEE-B1B045A51E4F"
+    },
+    {
+      "class": "shapePath",
+      "id": "2460BAFD-4663-4908-8C9F-DB9D886648BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "80947998-4879-426D-BDDF-E7F655330691"
+    },
+    {
+      "class": "shapePath",
+      "id": "89113700-AF03-4A77-A61A-E4783222E44F"
+    }
+  ],
+  "name": "Music Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EB82B80-8CAF-47AE-94FE-E03CCA4BE28E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09595099836587906,
+          "green": 0.09514356404542923,
+          "red": 0.08916693180799484
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

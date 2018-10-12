@@ -1,0 +1,127 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D599035-9B8D-4856-B2B0-2553195C5E98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 394,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "3BEE6F68-BABB-428B-8EEC-D93662FF8D94"
+    },
+    {
+      "class": "artboard",
+      "id": "52D810ED-A733-4E99-9E28-B72C74575E1F"
+    },
+    {
+      "class": "artboard",
+      "id": "B931504E-2B97-481B-AC9A-EB559257D7B8"
+    },
+    {
+      "class": "artboard",
+      "id": "A65C4308-B117-4D4C-AF8A-C2C4057B9EBE"
+    },
+    {
+      "class": "artboard",
+      "id": "2140F821-E853-4FF1-A543-993AB4AF6971"
+    },
+    {
+      "class": "artboard",
+      "id": "96FD3F22-B0F6-4F2C-935A-7CE3264A56CD"
+    },
+    {
+      "class": "artboard",
+      "id": "0A156767-B989-4E14-97DC-FC85B781128D"
+    },
+    {
+      "class": "artboard",
+      "id": "70414BAD-C942-44C5-BFA1-F1B571C5D962"
+    },
+    {
+      "class": "artboard",
+      "id": "B9380D9A-3D8F-4886-B483-DC6302B03A32"
+    },
+    {
+      "class": "artboard",
+      "id": "CAD2AA1B-96BB-410E-90D8-D24A13C82BD1"
+    },
+    {
+      "class": "artboard",
+      "id": "DD59C880-50A0-4623-81A2-BC4A5F361B30"
+    },
+    {
+      "class": "bitmap",
+      "id": "3041EBC8-14F2-463C-A3AC-C5BA05729B58"
+    },
+    {
+      "class": "bitmap",
+      "id": "00713BD2-0905-4F4F-A91A-F5D51648DB5D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 62,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 19.66666666666667,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 980
+  },
+  "name": "Interfaz",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -276,
+    "guides": [
+      -447
+    ]
+  }
+}

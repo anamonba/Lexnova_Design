@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F66E0A8-0B08-4DDF-850C-911B6B05EF87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA79DBEE-6B3C-4C51-BF97-46EEC881B274",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "266C32DF-FAED-403F-95CC-1173D5142F28",
+    "height": 40,
+    "width": 352,
+    "x": 0,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "484926AB-F5DA-491A-9277-A673A253B339"
+    },
+    {
+      "class": "group",
+      "id": "DF365C77-2F26-4F48-B97A-EECBC21F945D"
+    },
+    {
+      "class": "group",
+      "id": "959380CB-1FC8-4845-B3A9-06091D42FD49"
+    }
+  ],
+  "name": "Ghost Selector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CF1E203-E098-4036-85E9-CFE292E9F672",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

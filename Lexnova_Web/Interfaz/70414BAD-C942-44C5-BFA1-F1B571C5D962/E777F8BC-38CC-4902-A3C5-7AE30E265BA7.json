@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E777F8BC-38CC-4902-A3C5-7AE30E265BA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17B714AC-E83D-4F6C-AB49-F37D19021F53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E77FC89D-BC96-482F-A2FD-2639DBC0280B",
+    "height": 60,
+    "width": 267,
+    "x": 260,
+    "y": 417
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdowns/Big Ghost Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A215D24-82B3-4852-A26E-049B284FDEB0",
+      "overrideName": "7EAEF286-EBCE-4637-90C8-A4C47EF5E364_stringValue",
+      "value": "RUT / Nombre de Empresa"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69D3B7E5-10B4-4CE2-BF0E-4EF2DE04A4C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7D804C0E-AD09-4F91-9432-60FACD7ABCD0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

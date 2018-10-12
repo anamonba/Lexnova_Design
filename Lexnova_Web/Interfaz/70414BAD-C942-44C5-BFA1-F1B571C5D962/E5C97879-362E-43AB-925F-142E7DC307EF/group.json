@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5C97879-362E-43AB-925F-142E7DC307EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 920,
+    "x": 260,
+    "y": 1057
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1079AC32-C0E4-4F26-9462-38629F6B2560"
+    },
+    {
+      "class": "text",
+      "id": "1A862279-6867-42EF-80D9-9EF2D0D8804C"
+    },
+    {
+      "class": "text",
+      "id": "B065FD77-5278-4D29-9D0C-2A7ED7681858"
+    },
+    {
+      "class": "group",
+      "id": "820977DA-C9CF-4D4D-BCFF-B8A36ABA7AD0"
+    },
+    {
+      "class": "text",
+      "id": "5EB2B550-A666-4D04-9261-9EB07C85CE19"
+    },
+    {
+      "class": "group",
+      "id": "F4395143-B138-40C3-BF8D-91B6FECB76C8"
+    }
+  ],
+  "name": "Subida_en_curso",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

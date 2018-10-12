@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3C7C39C-4E05-449E-9090-8193906165F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F72D62C-2035-432B-B310-E537B5AE640B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63B5B61B-9E4C-4AD2-973A-8FD542FB7A37",
+    "height": 100,
+    "width": 920,
+    "x": 260,
+    "y": 1057
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2F981157-E6D1-42E9-BA1E-7DF774C5FDA3"
+    },
+    {
+      "class": "text",
+      "id": "6AB18428-E301-47B5-91AB-13BCCC741F87"
+    },
+    {
+      "class": "text",
+      "id": "F6E79331-1491-48AA-B126-2BFE6EE671F5"
+    },
+    {
+      "class": "group",
+      "id": "CC17DAAF-8358-4643-8CEC-7C5B665396CC"
+    },
+    {
+      "class": "text",
+      "id": "F8401FD7-681A-4838-A683-AD0765E7667E"
+    },
+    {
+      "class": "group",
+      "id": "8A4C1982-A669-4055-AD6A-FF926C60B51B"
+    }
+  ],
+  "name": "Subida_en_curso",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E5C52AA-A7C4-4BCD-A531-F040B19BE91B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

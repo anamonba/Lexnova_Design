@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3F2E005-BB56-45CB-9E0C-1FEA728357C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5F158C7-3023-44AE-8CB3-708EEB6E2A42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE5AEB4F-CDFF-4FD1-A8F9-08CE63BDBFC4",
+    "height": 40,
+    "width": 177,
+    "x": 797,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1DF8EB4F-2D2B-4C2C-9F68-D8B2BC12F85B"
+    },
+    {
+      "class": "group",
+      "id": "CA2FAB2A-A453-4A2B-9E92-103654DFC6AD"
+    }
+  ],
+  "name": "Simple Small Selector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E9DF262-FFD1-4B69-926F-62D5F24AAD5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

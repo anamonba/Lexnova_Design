@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F7191FA-4AEA-4F38-8892-59EE76508734",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5F52BE3-16B9-49BE-AECD-72703AA4CECC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB6FD8BB-5084-43E0-AFCE-453C42B8098A",
+    "height": 65,
+    "width": 220,
+    "x": 251,
+    "y": 154
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input Fields/Small Input Field Rounded",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28515867-5AB2-44C4-8006-E7F453476D94",
+      "overrideName": "143851C5-9CD7-464B-9A64-477EAD9DF697_stringValue",
+      "value": "Buscar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B51092B5-4EAF-44C5-B64F-B5AECD67DD64",
+      "overrideName": "9961FFAA-0FC8-482F-8E4F-2EA56879A1AE_stringValue",
+      "value": "Buscar por"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89E005D1-9CDB-421C-80CF-42421F0BF301",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A62047D0-763A-470C-B67F-EFE38D641208",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4868F4DF-4444-4275-BB16-983ADD7DEDDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F9E0630-5C64-405E-BA77-88C9BAE830B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B878488D-58D6-4180-A8B4-09E8A6E75737",
+    "height": 195,
+    "width": 371,
+    "x": 0,
+    "y": 50
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input Fields/Text Area",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7064BF5E-1EBA-4AE2-91BD-84435F3EC519",
+      "overrideName": "022C2B5D-0B72-478F-AE98-54414873C71C_stringValue",
+      "value": "Mensaje"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FEAF593-5765-4954-9442-E48A6C1E2821",
+      "overrideName": "5AAB3BB9-4289-409D-8E4E-76EB62CBFF6F_stringValue",
+      "value": "Área de texto "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3F29C5B-34DD-4AAC-99AA-1706B48283D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D2109A01-667B-4AA7-A784-F7F5340522CF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

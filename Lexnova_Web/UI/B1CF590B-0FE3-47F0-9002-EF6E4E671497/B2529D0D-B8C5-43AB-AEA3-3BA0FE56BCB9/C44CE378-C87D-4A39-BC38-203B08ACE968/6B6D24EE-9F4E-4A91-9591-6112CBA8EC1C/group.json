@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B6D24EE-9F4E-4A91-9591-6112CBA8EC1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97551156-229D-4CD2-82AA-1446B8A3C183",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6AA880F-E0C8-4617-A61E-270F04360F42",
+    "height": 50,
+    "width": 170,
+    "x": 1,
+    "y": 197
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "528D3AD2-8168-46E0-9911-A6B8003E4B69"
+    },
+    {
+      "class": "text",
+      "id": "AF69E640-D977-4660-A774-4C18818914FA"
+    }
+  ],
+  "name": "Input Filed  - Wrote",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F67B9659-D18E-4C4A-9D62-E291BDD785BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

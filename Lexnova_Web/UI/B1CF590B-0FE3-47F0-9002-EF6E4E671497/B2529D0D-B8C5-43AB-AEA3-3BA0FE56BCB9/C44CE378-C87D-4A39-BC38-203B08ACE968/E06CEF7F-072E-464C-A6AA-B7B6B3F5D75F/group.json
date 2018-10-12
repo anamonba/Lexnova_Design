@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E06CEF7F-072E-464C-A6AA-B7B6B3F5D75F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3693FF6A-4ECC-421E-97A1-BE4E0C97300D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05076BE8-C004-41A5-883F-ACC718CEFB73",
+    "height": 50,
+    "width": 170,
+    "x": 201,
+    "y": 197
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0FC2E5EC-DEF7-45C5-91B3-9A47A805E967"
+    },
+    {
+      "class": "text",
+      "id": "79E2A916-BDF2-4E58-A7D1-1A8FD8A45CB1"
+    }
+  ],
+  "name": "Input Filed  - Disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B40818F-63F7-469A-B903-43880B4EE4B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

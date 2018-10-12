@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "22411360-75B8-4071-AC91-A9FB29B67937",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA3E52AA-1ECE-4775-B54E-D247C2FC6B59",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F9F8A63-F9C9-4EB4-9F08-5DBE63B91CBA",
+    "height": 41,
+    "width": 96,
+    "x": 217,
+    "y": 119
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EE2E3C64-617C-41C7-BBA4-E482BB1AF9F3"
+    },
+    {
+      "class": "group",
+      "id": "121F5635-0036-4EA0-ADCB-F6F627A3D187"
+    }
+  ],
+  "name": "Split Field",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "248E145E-AC7E-495C-96B9-658D55EB5E4E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

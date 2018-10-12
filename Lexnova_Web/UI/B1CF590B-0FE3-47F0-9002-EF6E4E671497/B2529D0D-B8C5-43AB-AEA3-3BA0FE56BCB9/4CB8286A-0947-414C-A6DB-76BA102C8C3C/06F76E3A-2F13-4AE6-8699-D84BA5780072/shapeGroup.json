@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "06F76E3A-2F13-4AE6-8699-D84BA5780072",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "462C38E5-B768-4667-9F5C-8160EC578099",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4713791-12A4-4747-B676-3502DA331B1C",
+    "height": 33.911,
+    "width": 39.18100000000004,
+    "x": 717,
+    "y": 169
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5F82CD7A-9D21-4C62-8A75-CD9ACACB9A86"
+    },
+    {
+      "class": "shapePath",
+      "id": "47A253C6-F4F5-450F-B939-1C1850298109"
+    },
+    {
+      "class": "shapePath",
+      "id": "4AB79A23-3A7D-4C00-AB62-A87D3C645DD2"
+    }
+  ],
+  "name": "Code Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F530432-BAFB-45EB-AC9A-4252EFD76003",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09595099836587906,
+          "green": 0.09514356404542923,
+          "red": 0.08916693180799484
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

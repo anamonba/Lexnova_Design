@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0FEE5627-EE99-4933-A53B-748D69005BDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DC9C24A-F3ED-4AA1-9DBC-F63CCD9CAAC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B82CAEF-E76B-43A5-822A-4A5CCCF2D916",
+    "height": 50,
+    "width": 170,
+    "x": 201,
+    "y": 127
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "964BA45F-7E9C-4A77-8600-2A0FE0A7B99E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0030B64-95D4-4AEB-8970-56B0DA733F6B"
+    },
+    {
+      "class": "text",
+      "id": "01467A59-F9AD-4EA1-A807-6BAAE6704B51"
+    }
+  ],
+  "name": "Input Filed  - Error",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D67956ED-79AC-40F0-BB9D-0B5DFB6D9306",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

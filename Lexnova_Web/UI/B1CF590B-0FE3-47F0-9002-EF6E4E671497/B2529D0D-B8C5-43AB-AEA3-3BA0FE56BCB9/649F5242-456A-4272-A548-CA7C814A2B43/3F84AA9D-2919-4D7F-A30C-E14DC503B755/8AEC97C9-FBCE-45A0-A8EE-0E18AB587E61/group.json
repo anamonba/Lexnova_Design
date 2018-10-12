@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AEC97C9-FBCE-45A0-A8EE-0E18AB587E61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93F7B653-2332-4512-9B99-C0DFE37CA9DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9C12902-4AC4-4F5E-BA90-139984EFED62",
+    "height": 24,
+    "width": 59,
+    "x": 105,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D63EF77A-5CF5-4682-9DEF-4F8F9ED3C69D"
+    },
+    {
+      "class": "text",
+      "id": "77C62307-5240-480E-98CB-63EF13D87E00"
+    },
+    {
+      "class": "shapePath",
+      "id": "E6FFD26B-0594-421E-AA44-D7052A89F593"
+    }
+  ],
+  "name": "Facebook Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01D57EB4-D2F7-4921-8A62-C6501761E3B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

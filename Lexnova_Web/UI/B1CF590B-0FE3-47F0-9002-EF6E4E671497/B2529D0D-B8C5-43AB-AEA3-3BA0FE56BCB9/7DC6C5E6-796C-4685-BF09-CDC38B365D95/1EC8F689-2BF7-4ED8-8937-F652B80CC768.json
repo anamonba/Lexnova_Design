@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EC8F689-2BF7-4ED8-8937-F652B80CC768",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B2D13FA-7D4D-427D-BE73-6B4B60BFC370",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C59D6A09-EA42-4359-85FC-319FE7152BF4",
+    "height": 75,
+    "width": 221,
+    "x": 0,
+    "y": 52
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input Fields/Input Field",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA76DBDD-597A-442B-AA33-B50CB6A61601",
+      "overrideName": "52B006F6-AACB-4563-8025-5964842A5002_stringValue",
+      "value": "Nombre Completo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44633DF8-E22F-4810-A040-9DE46C877B54",
+      "overrideName": "8A307094-ECF2-4694-8A40-7B5D7A74EADF_stringValue",
+      "value": "Nombre Apellido "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B2A5848-D4CC-4221-BFAA-0CE6D392FCE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D70556E1-EDB8-46B6-96AF-5F6C7C4A7966",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

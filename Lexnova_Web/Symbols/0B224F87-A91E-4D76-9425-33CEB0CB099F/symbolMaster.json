@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3D50C411-769C-4F5C-A0D6-3265318C917B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 27,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B224F87-A91E-4D76-9425-33CEB0CB099F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C754E6F8-DC41-451E-8B0B-D0FF2AFF9796",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B619036-B424-49FB-8EE2-60DC91B6E26E",
+    "height": 60,
+    "width": 220,
+    "x": 1191,
+    "y": -254
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5168F9A9-5CE0-479F-B200-27A8FBDD6A44",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E5139581-78A5-408A-8E0F-1CD80459436A"
+    }
+  ],
+  "name": "Buttons/White",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E9FE4DA-71A8-40FA-BB65-AEA33683F1C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F3035EF-71D7-484E-9D00-46513349929A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DB496D89-AEAD-4722-9E52-B79671DE87CC",
+    "guides": [
+    ]
+  }
+}

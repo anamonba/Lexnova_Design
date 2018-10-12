@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A4C1982-A669-4055-AD6A-FF926C60B51B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A1ABFDF-E88E-4B1C-BEDD-1F18586FC264",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC2D4CE2-C4B3-42EE-A6AA-3CE4A8CC6009",
+    "height": 6,
+    "width": 301,
+    "x": 110,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9F8390CD-204A-4C74-B789-980AE7DE7BAF"
+    },
+    {
+      "class": "rectangle",
+      "id": "E0E606FE-E9C9-4C24-8DC0-17968763AC34"
+    }
+  ],
+  "name": "Progress Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E02A3A04-25AF-4DBE-92E3-1C2925AD9243",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

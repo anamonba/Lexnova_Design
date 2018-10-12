@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75A3625B-6D5D-4DD2-BF84-3FA652EB9B20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9257E96-706D-4FBC-AAB9-5EC436705BB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78144596-726E-4E04-8603-F4E2D83C2F8B",
+    "height": 271,
+    "width": 306,
+    "x": 904,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Categoria",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8E005D1-A38F-409D-BB8F-0971A8C4DFA6",
+      "overrideName": "AF882BE0-DC47-4AB2-A86D-4245246FD9FE_stringValue",
+      "value": "Detección"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E79B7E38-8457-44FF-8083-3F01FFE4BA4D",
+      "overrideName": "C0BCDE5E-4A27-430D-AFC5-387E340D2227_stringValue",
+      "value": "Fraudes & Delitos "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "77351F19-5E83-423C-A5F5-22E887076AB6",
+      "overrideName": "30CB8D2A-5AC5-4DBA-934C-2875E756E212_stringValue",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E774FC9-9AE0-4D0F-A006-CC3B13BCB0AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E6EBD5E7-E57D-4B6E-870E-7C3F16403D0C",
+  "verticalSpacing": 0
+}

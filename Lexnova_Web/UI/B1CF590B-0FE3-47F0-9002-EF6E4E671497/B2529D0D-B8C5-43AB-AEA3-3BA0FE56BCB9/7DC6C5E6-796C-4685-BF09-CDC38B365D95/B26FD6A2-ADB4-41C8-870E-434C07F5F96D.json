@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B26FD6A2-ADB4-41C8-870E-434C07F5F96D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F46B6DF2-D008-4C97-8F95-5714A2F8CD1B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C1B19E5-1FDF-4BAF-A58B-A86C792FE73E",
+    "height": 65,
+    "width": 220,
+    "x": 1,
+    "y": 154
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input Fields/Small Input Field",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6EA63FF-FE8C-43A9-8A5A-A6635401C190",
+      "overrideName": "48966620-9D8A-4E59-814F-66BB8EC9C300_stringValue",
+      "value": "E-mail "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55EC9B53-68E9-41BB-A2EF-B08EA2F8DF55",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14B3D7D0-3245-4FD7-8022-1A0F0C32B526",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

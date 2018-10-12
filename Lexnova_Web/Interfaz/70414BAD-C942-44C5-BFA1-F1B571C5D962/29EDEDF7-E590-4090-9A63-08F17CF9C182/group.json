@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "29EDEDF7-E590-4090-9A63-08F17CF9C182",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 920,
+    "x": 260,
+    "y": 837
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D7FB7631-9865-4F5C-B700-55982DCE5031"
+    },
+    {
+      "class": "group",
+      "id": "C7C03063-5142-4DD3-9C58-5B680F0BA65C"
+    },
+    {
+      "class": "group",
+      "id": "6F86D656-3B92-41A8-973C-1551FB1646DB"
+    },
+    {
+      "class": "text",
+      "id": "ACC80F9D-446A-4C14-B1BE-D04BB7AAEC95"
+    }
+  ],
+  "name": "Subido ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

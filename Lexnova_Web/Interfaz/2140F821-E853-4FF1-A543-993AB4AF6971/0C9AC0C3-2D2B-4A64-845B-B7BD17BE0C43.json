@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C9AC0C3-2D2B-4A64-845B-B7BD17BE0C43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0548317-D50C-4FE3-AF62-D574F71C500D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB9A7F5D-9BB4-45B1-B5DD-9B2509A699C5",
+    "height": 60,
+    "width": 170,
+    "x": 231,
+    "y": 334
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdowns/Big Ghost Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A215D24-82B3-4852-A26E-049B284FDEB0",
+      "overrideName": "7EAEF286-EBCE-4637-90C8-A4C47EF5E364_stringValue",
+      "value": "ID Compañía"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2850535-9AD2-4E7A-8045-36B4FC0D545F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7D804C0E-AD09-4F91-9432-60FACD7ABCD0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "99C17790-B224-474B-8936-A579A7A37843",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D98FB851-FBCB-4E52-979C-4A3A47FFCCDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CB31682-DC7A-4C08-954E-C985A7C28F6A",
+    "height": 24,
+    "width": 72,
+    "x": 192,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7EB2C40E-D213-485C-B405-EA019DA63242"
+    },
+    {
+      "class": "text",
+      "id": "34F0FA15-851B-499B-ADDA-DE51ACEA1997"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7A3D21B-6BBF-433E-B685-1875AC1489C6"
+    }
+  ],
+  "name": "Google Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A009F50-D66B-489B-B05D-636CD0808CC0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

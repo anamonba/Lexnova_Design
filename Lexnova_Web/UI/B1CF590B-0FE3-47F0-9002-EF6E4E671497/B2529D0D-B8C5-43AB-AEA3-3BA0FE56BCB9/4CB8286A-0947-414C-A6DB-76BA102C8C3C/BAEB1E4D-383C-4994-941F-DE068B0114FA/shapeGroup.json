@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BAEB1E4D-383C-4994-941F-DE068B0114FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2110E5FB-0EE4-462B-AFF4-351B39FFDD6F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD7AD7E7-1114-45F3-8C6D-204FF5155258",
+    "height": 35.30350000000001,
+    "width": 34.15925000000016,
+    "x": 715,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C74A1C40-B305-45F4-A332-A1C75AF26180"
+    },
+    {
+      "class": "shapePath",
+      "id": "8145F91C-6CDA-492F-8F2F-62B728058773"
+    },
+    {
+      "class": "shapePath",
+      "id": "18CFCB4C-5825-4C8C-9756-1AA1979C07D2"
+    }
+  ],
+  "name": "Search Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88F69809-2E63-407D-BE1B-ED7AA023D003",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09595099836587906,
+          "green": 0.09514356404542923,
+          "red": 0.08916693180799484
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

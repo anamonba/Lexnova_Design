@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "12ABD83D-3800-4CEA-A498-6EBCD18359B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "932DB375-F5D9-4FB5-BDA6-6E0B5B6EE492",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E79CD1F8-7047-43B8-90AC-56D5A0F45B4D",
+    "height": 26,
+    "width": 97,
+    "x": 3,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CD1BEC15-5F6A-4DCD-958A-4AA3FF85370E"
+    },
+    {
+      "class": "oval",
+      "id": "2DDCFE8B-9261-42BF-AFB1-3B2BB84BF5A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D8F6607-7D9D-4BF9-A6CA-3801921E7324"
+    }
+  ],
+  "name": "Checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C545245D-4A55-4DFC-AE57-EC3D651DBE24",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

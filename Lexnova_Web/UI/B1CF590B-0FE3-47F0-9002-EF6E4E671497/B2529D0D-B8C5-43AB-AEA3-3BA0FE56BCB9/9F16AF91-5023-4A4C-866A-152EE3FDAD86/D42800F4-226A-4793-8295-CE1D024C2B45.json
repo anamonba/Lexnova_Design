@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D42800F4-226A-4793-8295-CE1D024C2B45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D20D7551-3E0F-4461-A0FC-2F6E4948C335",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32D2DF65-5254-478B-8C83-01D38D54D84C",
+    "height": 50,
+    "width": 150,
+    "x": 180,
+    "y": 130
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Middle Ghost Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49E76B0D-F6BA-4FF9-9D2D-6D9C3CD99571",
+      "overrideName": "8C8B7DB4-505C-45B0-BEF4-CE87900B7FD0_stringValue",
+      "value": "BOTON 2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7488B514-1C28-490E-8A77-E84FBC8725B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "927BA9DB-AC6E-4600-BDF5-FFE6D09366BA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

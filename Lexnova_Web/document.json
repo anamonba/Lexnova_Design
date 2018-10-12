@@ -1,0 +1,89 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.29,
+        "green": 0.796,
+        "red": 0.71
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.0784313725490196,
+        "green": 0.0784313725490196,
+        "red": 0.0784313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3137254901960784,
+        "green": 0.3254901960784313,
+        "red": 0.9372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2902374565601349,
+        "green": 0.2901752889156342,
+        "red": 0.290221631526947
+      },
+      {
+        "_class": "color",
+        "alpha": 0.2,
+        "blue": 0.0784313725490196,
+        "green": 0.0784313725490196,
+        "red": 0.0784313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.09835166094975313,
+        "green": 0.6208280187074829,
+        "red": 0.5320276891281058
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9277146464646464,
+        "green": 1,
+        "red": 0.9877143470275881
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 1,
+  "do_objectID": "4A3021D3-9DBC-42F2-86DB-84EA087CF461",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "52.2",
+    "build": 67145,
+    "version": 112
+  },
+  "pages": [
+    "Interfaz",
+    "UI",
+    "Symbols"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "902D7C08-B013-46E8-B025-75AB0096FBE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77A986AD-F7C6-4756-BD8F-40EE7794A287",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F088979-B198-47F6-9A2E-A1D535B8CD91",
+    "height": 40,
+    "width": 70,
+    "x": 104,
+    "y": 54
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ECD6DD69-79AE-450C-8665-F21DBECB34B3"
+    },
+    {
+      "class": "rectangle",
+      "id": "09A9E610-3E82-4C8C-9A37-412D68168BA1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "649FC214-6979-4430-9502-E3188FDFDB19"
+    }
+  ],
+  "name": "Switcher Off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24F95DFC-9007-4190-958D-4F8DBFF68641",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

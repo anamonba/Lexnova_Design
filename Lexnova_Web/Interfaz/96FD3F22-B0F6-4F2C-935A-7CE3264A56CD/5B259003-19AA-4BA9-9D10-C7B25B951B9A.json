@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B259003-19AA-4BA9-9D10-C7B25B951B9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70EA45EB-3BE5-4A87-A086-F85C1387D0F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C2EB4B7-C550-4DDC-B95C-4E73D61FAE1C",
+    "height": 410,
+    "width": 843,
+    "x": 290,
+    "y": 747
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cabecera",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE9F0D6C-F87F-44CF-895A-25AFC9964A8E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC0C829F-022A-40D9-94E5-4B15D5664CC1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "93931444-D85F-4237-8B24-EEA735771D45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4940632A-9E82-4F7C-A92C-E0DBAA02334B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5B33E38-BD27-4404-B71D-E5DEAC646968",
+    "height": 16,
+    "width": 16,
+    "x": 333,
+    "y": 124
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FEAFAB2A-FF95-4F1A-9A9D-63503965B424"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D8C8389-3572-4ACA-B69A-AB070035DEB2"
+    }
+  ],
+  "name": "Load Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "548CD2F1-01A2-4470-A911-26C5F270351C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

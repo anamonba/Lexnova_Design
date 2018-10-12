@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "69C3C1A9-D1FC-4788-BB35-E0D2067B615E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "689F6E8F-9093-4E51-A7AE-3546357FDB84",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1476C121-60E2-4D8E-841B-990CA8CE33CF",
+    "height": 75,
+    "width": 220,
+    "x": 251,
+    "y": 52
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input Fields/Input Field Rounded",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAC15D49-0A9B-4849-B91C-10BEC54BF875",
+      "overrideName": "A2EE0861-8B55-486A-BFDE-74F3F31AE13E_stringValue",
+      "value": "Contraseña"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4944693F-5E26-4915-889F-DD751DB3B32D",
+      "overrideName": "E674FB85-B4EB-43BC-8163-9B386FD1099B_stringValue",
+      "value": "Contraseña"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8E924D4-381D-4740-A0E2-21E10D2015C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E77F6C00-23E8-41C4-88C7-0AD7A1EAB008",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
