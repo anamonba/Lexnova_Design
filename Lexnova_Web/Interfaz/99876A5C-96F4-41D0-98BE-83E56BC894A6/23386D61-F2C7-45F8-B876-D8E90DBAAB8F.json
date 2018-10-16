@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "23386D61-F2C7-45F8-B876-D8E90DBAAB8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5782CC29-FCCB-4092-B6F1-4A2C1B283684",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96C6CA7A-E2ED-4B8B-AF5B-6E5795CAD1C2",
+    "height": 40,
+    "width": 199,
+    "x": 201,
+    "y": 194
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Easy Ghost Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6ECF4787-DBAA-4CF7-9481-2F31B2186BE9",
+      "overrideName": "7C2F66B3-1643-416B-9700-49EBE6EEC1A8_stringValue",
+      "value": "IR AL SITIO"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D77A4F8B-C52E-4D42-B961-CB3241FA57F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FADC1FFA-897B-452D-A3C7-D4224A639117",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E872960-CA57-48CE-8F61-244D104FD90C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AA77D99-CE9B-4C6C-8477-8870864A3D59",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCCE5D66-18E7-436B-A127-84609AEAC33C",
+    "height": 134,
+    "width": 136,
+    "x": 295,
+    "y": 638
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5A58F7A5-A4BF-4DAD-A19F-07FBE95714BD"
+    },
+    {
+      "class": "text",
+      "id": "A3DBA027-624D-428E-A0BD-3D1F0A4FDC05"
+    },
+    {
+      "class": "text",
+      "id": "FBBEF76B-0C68-4987-8EFB-B7F96BF8357C"
+    }
+  ],
+  "name": "Subtitulos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "644E45E3-33FE-477E-BF6F-86F1D80953FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

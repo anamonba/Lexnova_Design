@@ -1,0 +1,69 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "9587A975-61DB-4E1E-8281-FB519DFEAE08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8336B83A-F9E9-49D5-A583-D531F84E53A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BFB173A0-9D84-4653-A3BF-EEA76AC89298",
+    "height": 66,
+    "width": 139,
+    "x": 122,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/85cf5639af8d7d6f7c03bd37b56df7cb6c7ab7d4.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cariola",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": -1,
+      "contrast": 4,
+      "do_objectID": "5654A5FE-2A19-4F98-A791-9F612E6C2155",
+      "hue": -3.141592653589793,
+      "isEnabled": true,
+      "saturation": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F6452DC2-2F64-45CA-A163-4EECC5387B68",
+      "opacity": 0.3858584449404762
+    },
+    "do_objectID": "699F81FB-99AF-4FA0-AEB4-66FE4767F044",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A4CFC95-7B2B-4027-A507-D913321255FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 643,
+    "width": 600,
+    "x": 1353,
+    "y": 3725
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      -1974
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B1ACEF9D-4A56-4262-BF75-15904660D0CA"
+    },
+    {
+      "class": "group",
+      "id": "F912E066-80DF-49B4-B16C-BA35A417851B"
+    },
+    {
+      "class": "shapePath",
+      "id": "EDA9556B-D6E6-40E5-BEF4-9936EDDAEADC"
+    },
+    {
+      "class": "group",
+      "id": "6F6B79E8-9219-4F81-993D-802298474526"
+    },
+    {
+      "class": "group",
+      "id": "F496EDE1-377E-4EF6-AB35-D490ABFE4291"
+    },
+    {
+      "class": "text",
+      "id": "2AC58976-4F23-4A08-9B5D-2F5D40FC58C2"
+    },
+    {
+      "class": "text",
+      "id": "7EA32E6A-4D17-4863-B575-06851D726358"
+    },
+    {
+      "class": "text",
+      "id": "EBED1161-B29C-4E03-9D32-7B0D3A35737A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25333D84-61C7-4E4A-AC8A-13699B468009"
+    },
+    {
+      "class": "text",
+      "id": "6341B46B-5159-4591-B0ED-26B303B179EF"
+    },
+    {
+      "class": "text",
+      "id": "8B8B32FE-DBED-48DB-8E0B-C27C0988D9D2"
+    },
+    {
+      "class": "text",
+      "id": "7F1EF358-58FA-4E8C-A56F-D9047AFFA1DF"
+    },
+    {
+      "class": "text",
+      "id": "6F2C94E7-EBD1-4C51-896C-499A1FAF08FD"
+    }
+  ],
+  "name": "Mailing",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      -524
+    ]
+  }
+}

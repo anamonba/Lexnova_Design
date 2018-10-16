@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F16AF91-5023-4A4C-866A-152EE3FDAD86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E39AAC54-309D-4466-8C1C-0D0FE2A03A91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8925A07-CC18-4FD7-A6A9-D089C0E2B64F",
+    "height": 240,
+    "width": 470,
+    "x": 298,
+    "y": 845
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5505788E-BB9F-447D-9A77-D69C262C6165"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65FE0F1E-3FDE-4823-91FB-76FAEB63CD37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D42800F4-226A-4793-8295-CE1D024C2B45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFEC9F8F-59BE-4282-A483-ABF0CC6057F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BCB7B152-6896-4622-AD43-9BB0700A0B57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91C8D94E-D015-4683-8B16-1A4F8C2C33C8"
+    },
+    {
+      "class": "text",
+      "id": "EB19223B-665D-42BE-B73E-E494E1B56C96"
+    }
+  ],
+  "name": "Botones",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5EAA3D8-EB94-4B7D-86B0-FE075EFE6C3B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

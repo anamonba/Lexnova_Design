@@ -26,6 +26,7 @@
     "_class": "rulerData",
     "base": 394,
     "guides": [
+      -550
     ]
   },
   "includeInCloudUpload": true,
@@ -81,12 +82,12 @@
       "id": "DD59C880-50A0-4623-81A2-BC4A5F361B30"
     },
     {
-      "class": "bitmap",
-      "id": "3041EBC8-14F2-463C-A3AC-C5BA05729B58"
+      "class": "artboard",
+      "id": "1A4CFC95-7B2B-4027-A507-D913321255FF"
     },
     {
-      "class": "bitmap",
-      "id": "00713BD2-0905-4F4F-A91A-F5D51648DB5D"
+      "class": "artboard",
+      "id": "99876A5C-96F4-41D0-98BE-83E56BC894A6"
     }
   ],
   "layout": {

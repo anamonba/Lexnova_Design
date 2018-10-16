@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7770780187074829,
-            "green": 0.3765759394905411,
-            "red": 0.03308345889304663
+            "blue": 0.886238694190979,
+            "green": 0.5645518898963928,
+            "red": 0.288655698299408
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -23,18 +23,18 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 26,
             "minimumLineHeight": 26
           },
           "underlineStyle": 1
         },
-        "length": 12,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Ver extracto"
+    "string": "Ver Coincidencias"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "0126A856-A6A1-46F0-AAD9-D60B902FADEC",
     "height": 26,
-    "width": 98,
-    "x": 1011,
+    "width": 133,
+    "x": 968,
     "y": 1368
   },
-  "glyphBounds": "{{0, 9}, {83, 11}}",
+  "glyphBounds": "{{10, 8}, {123, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Ver extracto",
+  "name": "Ver Coincidencias",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -88,9 +88,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7770780187074829,
-          "green": 0.3765759394905411,
-          "red": 0.03308345889304663
+          "blue": 0.886238694190979,
+          "green": 0.5645518898963928,
+          "red": 0.288655698299408
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -102,7 +102,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 26,
           "minimumLineHeight": 26
