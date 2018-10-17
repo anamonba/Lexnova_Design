@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 42,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "Se han procesado sus documentos con éxito."
+    "string": "Recibimos sus documentos con éxito."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "AE3FEE41-FE5C-4BE5-83C1-342787C23253",
     "height": 14,
-    "width": 274,
+    "width": 230,
     "x": 60,
     "y": 93
   },
-  "glyphBounds": "{{0, 2}, {273, 13}}",
+  "glyphBounds": "{{0, 2}, {230, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Se han procesado sus",
+  "name": "Recibimos sus docume",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

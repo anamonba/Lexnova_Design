@@ -30,7 +30,7 @@
     "y": 2212
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -102,7 +102,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 980
   },
-  "name": "Validación Copy",
+  "name": "Recuperar_Clave",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

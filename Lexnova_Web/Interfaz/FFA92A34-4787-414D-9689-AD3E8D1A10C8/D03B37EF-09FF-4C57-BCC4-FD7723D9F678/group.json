@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D03B37EF-09FF-4C57-BCC4-FD7723D9F678",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DE3CE03-8737-4095-8977-972C16A9DD1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14568ACA-C15E-4787-BFD6-F6B0D0AE79E9",
+    "height": 66,
+    "width": 261,
+    "x": 170,
+    "y": 547
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "37E168BB-249F-48A2-82D4-A1F6ED00C652"
+    },
+    {
+      "class": "bitmap",
+      "id": "34EEE540-469D-43E7-989C-ADB5168CE664"
+    }
+  ],
+  "name": "logos_cierre",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1179CD1A-2422-45E5-8360-B70BE1A0AE01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

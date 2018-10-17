@@ -26,7 +26,8 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
         "length": 8,
         "location": 0
@@ -72,6 +73,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6525957D-A092-4989-8B69-21DAD3C9895C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8DA6452D-5D13-4474-AB97-8DB18B5B37AB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,7 +104,8 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

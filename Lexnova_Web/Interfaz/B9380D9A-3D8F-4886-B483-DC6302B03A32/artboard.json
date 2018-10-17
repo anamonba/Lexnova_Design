@@ -127,10 +127,6 @@
     {
       "class": "text",
       "id": "C0A6A18E-CD4E-4A6E-B6C4-1DEA5DD7354B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "961F37EE-37A3-460C-8A29-56138945BF37"
     }
   ],
   "layout": {
@@ -149,7 +145,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 980
   },
-  "name": "1 copy 2",
+  "name": "1.2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

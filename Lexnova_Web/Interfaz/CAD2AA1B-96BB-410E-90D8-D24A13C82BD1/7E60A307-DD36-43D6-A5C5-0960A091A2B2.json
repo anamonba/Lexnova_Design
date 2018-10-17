@@ -16,17 +16,17 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-UltraLight",
-              "size": 16
+              "name": "Montserrat-Bold",
+              "size": 12
             }
           },
+          "kerning": 1.899999976158142,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "allowsDefaultTighteningForTruncation": 0
           },
+          "textStyleVerticalAlignmentKey": 0,
           "underlineStyle": 1
         },
         "length": 15,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8DC0CBBB-9BCD-40F7-9981-D52D707D4FB4",
-    "height": 26,
+    "height": 14,
     "width": 331,
     "x": 170,
     "y": 651
   },
-  "glyphBounds": "{{209, 7}, {122, 16}}",
+  "glyphBounds": "{{205, 3}, {124, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,23 +73,16 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E51A840C-0A34-42AA-9DDA-4FE94FF1D3C8",
+  "sharedStyleID": "6525957D-A092-4989-8B69-21DAD3C9895C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "6980ADDE-431D-4911-BB70-52B50D0780CF",
-      "opacity": 0.699999988079071
-    },
     "do_objectID": "DC31FDA7-2262-4F9F-A846-7EFEEB867D2F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5EBD25D2-B276-4C7F-99D1-9ECAAE62B3C2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -101,17 +94,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-UltraLight",
-            "size": 16
+            "name": "Montserrat-Bold",
+            "size": 12
           }
         },
+        "kerning": 1.899999976158142,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "allowsDefaultTighteningForTruncation": 0
         },
+        "textStyleVerticalAlignmentKey": 0,
         "underlineStyle": 1
       },
       "verticalAlignment": 0

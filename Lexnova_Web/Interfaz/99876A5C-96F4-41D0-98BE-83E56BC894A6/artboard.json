@@ -28,7 +28,7 @@
     "height": 643,
     "width": 600,
     "x": 1359,
-    "y": 3725
+    "y": 6713
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -103,7 +103,7 @@
       "id": "DF4CCBFF-2960-4743-8D3F-4AABEA6884F5"
     }
   ],
-  "name": "Mailing  V2 ",
+  "name": "1.5",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
