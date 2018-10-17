@@ -9,35 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.09595099836587906,
+            "green": 0.09514356404542923,
+            "red": 0.08916693180799484
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-SemiBold",
-              "size": 12
+              "name": "Linearicons-Free",
+              "size": 42
             }
           },
-          "kerning": 1.899999976158142,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "User Apellido "
+    "string": ""
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "051E785C-ED61-44C9-9646-9624CCC14B80",
+  "do_objectID": "2C266F88-BF1A-4021-9B1B-7F67F42688ED",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 112,
-    "x": 1158,
-    "y": 33
+    "height": 42,
+    "width": 42,
+    "x": 690,
+    "y": 562
   },
-  "glyphBounds": "{{5, 2}, {104, 13}}",
+  "glyphBounds": "{{4, 2}, {34, 41}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "User Apellido",
+  "name": "",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,21 +82,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.09595099836587906,
+          "green": 0.09514356404542923,
+          "red": 0.08916693180799484
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-SemiBold",
-            "size": 12
+            "name": "Linearicons-Free",
+            "size": 42
           }
         },
-        "kerning": 1.899999976158142,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0

@@ -16,6 +16,64 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "Montserrat-SemiBold",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 28,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.29,
+            "green": 0.796,
+            "red": 0.71
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-SemiBold",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 19,
+        "location": 28
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "Montserrat-Light",
               "size": 14
             }
@@ -23,26 +81,26 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 30,
             "minimumLineHeight": 30
           }
         },
-        "length": 245,
-        "location": 0
+        "length": 73,
+        "location": 47
       }
     ],
-    "string": "Este proceso puede tardar varios minutos, y varia según cantidad de archivos y la conexión de subida que este utilizando en este momento. Al cerrar la ventana el proceso se detendrá de inmediato y deberá cargar de nuevo los documentos deseados. "
+    "string": "No hay archivos que mostrar regresa más tarde.\nRecibirás un email cada vez que tengas documentos pendientes de revisión."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "63362C14-C925-425A-B94D-60C08F5DFC27",
+  "do_objectID": "F8FCD4E8-55A1-404A-9376-719A55116E50",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CFB91AD4-95EF-4880-9147-DE52272504F5",
+    "do_objectID": "29E32F42-5418-4BEA-AD5B-5FD1722B8F41",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +111,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E0660614-DD2F-42A1-9AA2-591FAD32A1CB",
+    "do_objectID": "9CBA7CAE-0AA8-4158-821E-F4C988928F84",
     "height": 60,
-    "width": 980,
-    "x": 230,
-    "y": 244
+    "width": 860,
+    "x": 281,
+    "y": 641
   },
-  "glyphBounds": "{{0, 10}, {973, 44}}",
+  "glyphBounds": "{{169, 9}, {523, 44}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +126,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Este proceso puede t",
+  "name": "No hay archivos que",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +135,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6F45DB14-CC4E-4242-B661-299E1DF6D0AC",
+    "do_objectID": "4A49F3E5-3240-4B57-BC01-A74856C8A7F5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CEA56A64-0F1D-4800-810A-6681A087AFFF",
+      "do_objectID": "28CC8365-F2CA-43A7-9AD5-4C71F351A8FF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,14 +153,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Light",
+            "name": "Montserrat-SemiBold",
             "size": 14
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 30,
           "minimumLineHeight": 30

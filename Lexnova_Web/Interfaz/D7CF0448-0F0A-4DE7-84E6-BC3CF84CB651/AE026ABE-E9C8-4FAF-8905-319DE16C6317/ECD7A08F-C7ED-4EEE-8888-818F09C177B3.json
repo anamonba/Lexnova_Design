@@ -16,31 +16,32 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-SemiBold",
-              "size": 12
+              "name": "Montserrat-Bold",
+              "size": 16
             }
           },
-          "kerning": 1.899999976158142,
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 14,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "User Apellido "
+    "string": "Empresa Asociada"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "051E785C-ED61-44C9-9646-9624CCC14B80",
+  "do_objectID": "ECD7A08F-C7ED-4EEE-8888-818F09C177B3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "264A1043-D687-406B-AE43-7474559229F3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 112,
-    "x": 1158,
-    "y": 33
+    "do_objectID": "14BB22B8-AB45-4548-BD85-C813A6A6DDD0",
+    "height": 19,
+    "width": 174,
+    "x": 735,
+    "y": 20
   },
-  "glyphBounds": "{{5, 2}, {104, 13}}",
+  "glyphBounds": "{{1, 4}, {173, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "User Apellido",
+  "name": "Empresa Asociada",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,11 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "969F53EE-3C36-4053-B6E2-346C1A0E00C3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "CA0A5E47-7029-44DA-BFFA-8583DF3D1F9A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -89,17 +93,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-SemiBold",
-            "size": 12
+            "name": "Montserrat-Bold",
+            "size": 16
           }
         },
-        "kerning": 1.899999976158142,
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },
