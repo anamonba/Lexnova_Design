@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E4658F2B-BB95-416B-8F42-318EFC3B8810",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 474,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9EAA7E2-54CE-42A0-B5B6-DF77F037D41C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DBBF4CFC-471E-4CED-9FBF-72E4473B7D50",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0F58A02-AE15-4F02-AC7B-88DE5A019033",
+    "height": 100,
+    "width": 221,
+    "x": 1511,
+    "y": 208
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F2753037-283E-46D3-8C9B-63D62D835C6C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9F07C1F8-BD7F-4837-AF4F-15563522C023"
+    }
+  ],
+  "name": "Input Fields/Input Field Validation",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C8DFA03-A69B-4F00-8074-82AEDA949EB0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC8E9053-49BA-4E49-8578-68080132AA19",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B773A9EF-AEC1-4C16-B5EC-0AD9122CADAD",
+    "guides": [
+    ]
+  }
+}

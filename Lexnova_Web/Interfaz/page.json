@@ -79,6 +79,22 @@
     },
     {
       "class": "artboard",
+      "id": "AEA9C7D2-FCB7-4781-A8D9-8D736E74B083"
+    },
+    {
+      "class": "artboard",
+      "id": "47D7DF39-15DF-4758-95D4-1E0669A58456"
+    },
+    {
+      "class": "artboard",
+      "id": "1BC36895-3763-4C18-9F29-E705AA4A7BE8"
+    },
+    {
+      "class": "artboard",
+      "id": "69365E65-16EA-4BF7-B8E2-05CF4EBE9D0B"
+    },
+    {
+      "class": "artboard",
       "id": "DD59C880-50A0-4623-81A2-BC4A5F361B30"
     },
     {
@@ -88,6 +104,14 @@
     {
       "class": "artboard",
       "id": "99876A5C-96F4-41D0-98BE-83E56BC894A6"
+    },
+    {
+      "class": "text",
+      "id": "E09ACE17-1076-485E-8CC7-8D3C1C3332A0"
+    },
+    {
+      "class": "text",
+      "id": "4C74EBF4-6890-4327-94ED-75BEFDEF0084"
     }
   ],
   "layout": {

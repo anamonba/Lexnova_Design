@@ -1,0 +1,69 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "2D883E45-46DA-41CA-B2FD-843170F75ADD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA2B7BFF-2475-4414-8E47-BA9883FD0F85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2DD97459-F809-4599-BCBD-6B072D17B274",
+    "height": 71,
+    "width": 152,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1446ed9ee9238e854b8c521e2bfbd021daed804f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cognitiva",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 4,
+      "do_objectID": "97C56F68-28BE-4372-AA75-442F8737CF92",
+      "hue": -3.141592653589793,
+      "isEnabled": true,
+      "saturation": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "928EDC36-6F68-418F-A4B8-561E88D622B4",
+      "opacity": 0.3858584449404762
+    },
+    "do_objectID": "26923A92-222F-4369-8E06-DB31FBA5F93A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

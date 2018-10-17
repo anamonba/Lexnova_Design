@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9B2E648-1364-40E9-AB40-5C0829F6557F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56393CF6-E8F6-4949-B052-CC81D4F7042F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5EE17826-E401-444A-8155-AECE29FCB9EA",
+    "height": 60,
+    "width": 421,
+    "x": 510,
+    "y": 644
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Big Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CD1C89C-176C-400A-8DED-4AE9E765DCEA",
+      "overrideName": "E461F52B-07BA-4C0F-8F38-0BC45190BD4A_stringValue",
+      "value": "BUTON 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D99C078-31AF-4C46-B817-AA621725444A",
+      "overrideName": "5713CE48-1BA1-4B0A-B2B4-897B41FD1262_stringValue",
+      "value": "inGRESAR"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B36FC0BC-3129-4BF5-9E2F-834800CE2950",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48BBAEC6-A959-4BCD-8D29-2D1917580C49",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

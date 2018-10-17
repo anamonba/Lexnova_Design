@@ -29,11 +29,11 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 138,
+        "length": 137,
         "location": 0
       }
     ],
-    "string": "Hemos terminado el proceso de 8/10 documentos. Los documentos fueron procesados con éxito, ya se encuentran disponibles para su revisión. "
+    "string": "Hemos terminado el proceso de 8/10 documentos. Los documentos fueron procesados con éxito, Y se encuentran disponibles para su revisión. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -59,7 +59,7 @@
     "x": 60,
     "y": 124
   },
-  "glyphBounds": "{{-1, 5}, {476, 31}}",
+  "glyphBounds": "{{0, 5}, {475, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

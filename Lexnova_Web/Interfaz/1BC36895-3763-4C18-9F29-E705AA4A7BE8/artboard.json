@@ -1,0 +1,134 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "B2BFB41E-49F0-44F3-A7A4-E8E35796F449",
+    "green": 0.9529411764705882,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1BC36895-3763-4C18-9F29-E705AA4A7BE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "877C1B30-8016-4C45-8CB7-24C504CE716D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0C135E5-0F15-40DD-9558-32FE874F1EF5",
+    "height": 1024,
+    "width": 1440,
+    "x": -311,
+    "y": 4293
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "752CFA00-2BC8-427F-A3EF-6BFF851BAD4E",
+    "guides": [
+      238,
+      1200,
+      1095,
+      1107
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "282896B6-548E-46EB-BFA7-DF95469A2CDB"
+    },
+    {
+      "class": "group",
+      "id": "48EDFD45-C9A7-440D-86E6-FFE4E173F095"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ADD6275-2796-4951-BEF6-69BB84A3EFC8"
+    },
+    {
+      "class": "group",
+      "id": "8262E727-81DD-43B1-915F-93FBF54AD781"
+    },
+    {
+      "class": "text",
+      "id": "64B1FA13-A496-49EB-A447-B693D81FCC61"
+    },
+    {
+      "class": "text",
+      "id": "BBF395C6-77B5-47E1-9581-8CDD1A2D7A34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBABD541-0BF2-4213-A22B-AFF741C3C10A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 62,
+    "do_objectID": "D92F99A8-652B-4159-9588-C220E8845C11",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.45454545454545,
+    "guttersOutside": false,
+    "horizontalOffset": 230,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 980
+  },
+  "name": "Cambio de Clave",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1477B9A3-B637-420F-A3CC-C59EE42CD431",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E563335B-65D0-480A-917F-7F0BC2D62713",
+    "guides": [
+      80,
+      597,
+      451
+    ]
+  }
+}

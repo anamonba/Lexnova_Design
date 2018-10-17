@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBABD541-0BF2-4213-A22B-AFF741C3C10A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39F592BF-B600-4102-96D2-CBC21FE46605",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7D6B81B-4094-4E54-AB41-08F9C93B1192",
+    "height": 100,
+    "width": 421,
+    "x": 510,
+    "y": 514
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input Fields/Input Field Validation",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9764E2CB-1F1F-4D76-A93A-77E3EDD7B880",
+      "overrideName": "928199B5-2519-4921-BAFE-70C5DB12B1EB_stringValue",
+      "value": "clave"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BF523EA-4FAA-45DC-A9E1-7434FB0D1547",
+      "overrideName": "DA62DF17-C670-469E-96E9-EB628551B3F7_stringValue",
+      "value": "clave123"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94A00086-58DC-40FF-A2A0-C4B0F0EF7D0C",
+      "overrideName": "FB197A25-0D7D-48C1-BDE6-FB440E8F50B9_stringValue",
+      "value": "La clave debe tener al menos un número. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3A8BE89-8284-45F9-B9D6-8A270A4F3C1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC8E9053-49BA-4E49-8578-68080132AA19",
+  "verticalSpacing": 0
+}

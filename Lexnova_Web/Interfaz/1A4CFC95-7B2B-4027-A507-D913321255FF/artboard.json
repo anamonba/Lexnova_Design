@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 643,
     "width": 600,
-    "x": 1353,
-    "y": 3725
+    "x": -310,
+    "y": 3443
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -100,7 +100,7 @@
       "id": "6F2C94E7-EBD1-4C51-896C-499A1FAF08FD"
     }
   ],
-  "name": "Mailing",
+  "name": "Mailing_Cambio_Clave",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

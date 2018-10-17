@@ -20,7 +20,7 @@
     "height": 40,
     "width": 199,
     "x": 201,
-    "y": 194
+    "y": 234
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,9 +35,9 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "6ECF4787-DBAA-4CF7-9481-2F31B2186BE9",
-      "overrideName": "7C2F66B3-1643-416B-9700-49EBE6EEC1A8_stringValue",
-      "value": "IR AL SITIO"
+      "do_objectID": "8CC4A022-4507-4FB2-BD3A-F9DC6ED24FDC",
+      "overrideName": "5713CE48-1BA1-4B0A-B2B4-897B41FD1262_stringValue",
+      "value": "CAMBIAR CLAVE"
     }
   ],
   "resizingConstraint": 63,
@@ -53,7 +53,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FADC1FFA-897B-452D-A3C7-D4224A639117",
+  "symbolID": "48BBAEC6-A959-4BCD-8D29-2D1917580C49",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

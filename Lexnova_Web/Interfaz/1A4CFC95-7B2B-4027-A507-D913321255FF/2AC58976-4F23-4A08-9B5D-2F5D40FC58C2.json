@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 32,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "Hemos ingresado sus documentos. "
+    "string": "Hola, User Name Last name, "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "46006967-3382-40BD-AD6C-8926EC09C6D9",
     "height": 14,
-    "width": 216,
+    "width": 172,
     "x": 60,
     "y": 93
   },
-  "glyphBounds": "{{0, 2}, {213, 13}}",
+  "glyphBounds": "{{0, 3}, {169, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hemos ingresado sus",
+  "name": "Hola, User Name Last",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
