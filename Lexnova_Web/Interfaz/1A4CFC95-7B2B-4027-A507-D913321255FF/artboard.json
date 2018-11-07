@@ -52,16 +52,8 @@
       "id": "B1ACEF9D-4A56-4262-BF75-15904660D0CA"
     },
     {
-      "class": "group",
-      "id": "F912E066-80DF-49B4-B16C-BA35A417851B"
-    },
-    {
       "class": "shapePath",
       "id": "EDA9556B-D6E6-40E5-BEF4-9936EDDAEADC"
-    },
-    {
-      "class": "group",
-      "id": "6F6B79E8-9219-4F81-993D-802298474526"
     },
     {
       "class": "group",
@@ -98,6 +90,14 @@
     {
       "class": "text",
       "id": "6F2C94E7-EBD1-4C51-896C-499A1FAF08FD"
+    },
+    {
+      "class": "group",
+      "id": "2AFD1A87-9B67-4504-87B3-A692877F844D"
+    },
+    {
+      "class": "group",
+      "id": "E52040E9-BF48-4DAC-8C83-E08562A2D435"
     }
   ],
   "name": "Mailing_Cambio_Clave",

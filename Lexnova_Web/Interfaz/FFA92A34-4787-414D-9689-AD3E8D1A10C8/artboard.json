@@ -28,10 +28,10 @@
     "height": 643,
     "width": 600,
     "x": 2079,
-    "y": 6713
+    "y": 7914
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,16 +55,8 @@
       "id": "3F134F68-FF8D-46FD-B1E2-392ACC75484A"
     },
     {
-      "class": "group",
-      "id": "53118578-0908-4A60-99EA-E36259742E4C"
-    },
-    {
       "class": "shapePath",
       "id": "0C8D7018-980A-4D36-AF07-64CF4AC78A02"
-    },
-    {
-      "class": "group",
-      "id": "683F205B-A45B-4299-A2F8-11E4C303FFC5"
     },
     {
       "class": "group",
@@ -101,6 +93,14 @@
     {
       "class": "text",
       "id": "FAF57B9F-312B-410E-BD4D-FDB9AA824CC7"
+    },
+    {
+      "class": "group",
+      "id": "7059126C-4422-4C92-8BCE-7C1D8C2C82D4"
+    },
+    {
+      "class": "group",
+      "id": "321009FD-31CB-4473-AFD7-C9F99BB14308"
     }
   ],
   "name": "1.5.1",

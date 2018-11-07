@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8511B862-12D1-4EC6-9307-345453D2403A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17930649-2319-40FA-B539-68128A35D17A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B4A1961-9E01-415E-B423-C8476AC05626",
+    "height": 324,
+    "width": 430,
+    "x": 505,
+    "y": 184
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modal_Confirmación",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A3644B0-679E-43A9-85AF-85FCBA6DA8E4",
+      "overrideName": "BA6E233C-CBB1-4E9D-BAD9-50F5A1BE14EF_stringValue",
+      "value": "Está seguro que desea rechazar la facultad asociada al documento."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "525CEAF8-E7BD-4833-9541-1571062F6D9A",
+      "overrideName": "465DC546-B10C-40E0-84D0-5F009EB36C43_stringValue",
+      "value": "Luego de completar esta acción no volverá a ver la facultad disponible hasta ingresarla nuevamente."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62EE0DDE-E5C8-4398-A993-49FF505D10F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FBDF702A-8B3A-4063-8BE0-FA0A6135EB99",
+  "verticalSpacing": 0
+}

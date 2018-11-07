@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 122,
+        "length": 53,
         "location": 0
       }
     ],
-    "string": "Está seguro que desea cancelar la subida de archivos.\n\nSi presiona aceptar perderá el progreso de subida hasta el momento."
+    "string": "Está seguro que desea cancelar la subida de archivos."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "084F661A-43DB-4907-A6A2-00B0CE842106",
-    "height": 85,
-    "width": 349,
+    "height": 54,
+    "width": 370,
     "x": 30,
     "y": 89
   },
-  "glyphBounds": "{{0, 3}, {340, 80}}",
+  "glyphBounds": "{{1, 3}, {365, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -108,5 +108,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

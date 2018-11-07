@@ -27,8 +27,8 @@
     "do_objectID": "1A4A8391-29ED-4813-BD8E-F9080C9D8853",
     "height": 1761,
     "width": 1440,
-    "x": 7628,
-    "y": -204
+    "x": 6036,
+    "y": 5976
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -300,7 +300,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 980
   },
-  "name": "Agregar facultad",
+  "name": "4.3",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

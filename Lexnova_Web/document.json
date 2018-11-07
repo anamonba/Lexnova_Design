@@ -70,7 +70,7 @@
     "images": [
     ]
   },
-  "colorSpace": 1,
+  "colorSpace": 2,
   "do_objectID": "4A3021D3-9DBC-42F2-86DB-84EA087CF461",
   "foreignLayerStyles": [
   ],
@@ -84,13 +84,18 @@
     ]
   },
   "meta": {
-    "appVersion": "52.2",
-    "build": 67145,
+    "appVersion": "52.3",
+    "build": 67297,
     "version": 112
   },
   "pages": [
     "Interfaz",
     "UI",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
